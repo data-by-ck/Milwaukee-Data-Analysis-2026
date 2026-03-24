@@ -4,8 +4,8 @@
 I built this project to explore the digital transparency of the City of Milwaukee. This automated pipeline identifies which city departments are leading the way in open data availability.
 
 ## 📊 Key Insights
-* **Top Contributors:** The analysis reveals that the **Department of Public Works** currently maintains the largest volume of public records.
-* **Technical Milestone:** Successfully migrated from basic Matplotlib charts to **Seaborn (v0.14.0)** for boardroom-ready visualizations, handling all modern deprecation warnings.
+* **Top Contributors:** The analysis reveals that the **Election Commission** currently maintains the largest volume of public records.
+* **Technical Milestone:** Successfully migrated from basic Matplotlib charts to Seaborn for boardroom-ready visualizations.
 
 ## 🛠️ Tools & Technologies
 * **Python:** Core logic and automation.
